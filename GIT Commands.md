@@ -10,3 +10,9 @@ In GIT BASH command line:-
 9. `git remote set-url origin <url>` = To update the existing remote URL.
 10. `git push -u origin master` = To add the changes to online GitHub repository.
 11. `git pull origin <branch>` = To pull any remote changes that are not in the Local repository.
+
+__Most Used Commands__
+1. `git status` = Tells the sync state between remote and local repos.
+2. `git add <file name>` = Adds untracked files to staging area.
+3. `git status --short` = Tells the status in a more compact manner( M = modified, A = added).
+4. 
